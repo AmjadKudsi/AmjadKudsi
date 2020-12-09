@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/amjad-ali-kudsi-150b44199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
 <a href="https://www.instagram.com/ak_ali7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> &nbsp; 
-<a href="https://www.facebook.com/dheerubhai2000/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  <br>
+<a href="https://www.facebook.com/amjadkudsiak/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  <br>
 
 ![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
 
