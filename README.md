@@ -22,7 +22,6 @@
 Ask me anything <a href="https://github.com/AmjadKudsi/AmjadKudsi/issues/new"><b>here</b></a><br>
 or <a href="mailto:amjadkudsi7@gmail.com"><b>email</b></a> me
 
-<h2>Have a nice day! 😊</h2>
 </div>
 
 <div align="center">
@@ -40,4 +39,4 @@ or <a href="mailto:amjadkudsi7@gmail.com"><b>email</b></a> me
 
 </div>
 
-⭐ Thank you for visiting!
+⭐ Thank you for visiting. Have a nice day! 😊
