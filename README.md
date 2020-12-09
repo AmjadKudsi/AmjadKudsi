@@ -42,4 +42,4 @@ or <a href="mailto:amjadkudsi7@gmail.com"><b>email</b></a> me
 
 </div>
 
-⭐ Thank you for visiting. Have a nice day!
+⭐ Thank you for visiting!
