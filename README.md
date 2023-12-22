@@ -15,9 +15,9 @@
 
 
 <h2> Hey Developers! <img src="https://github.com/dheeraj-2000/dheeraj-2000/blob/master/gifs/Hi.gif" width="30px"></h2> <br>
-🔭 Masters in Data Science
+🔭 Masters in Data Science <br>
 🌱 Former Data Enginner @ Capgemini <br>
-🤔 AI | ML | DL Enthusiast
+🤔 AI | ML | DL Enthusiast <br>
 ⚡ Fun fact: Video Editing is my hobby. Do visit my <a href="https://www.youtube.com/channel/UC20tlTyDmZlcOlleN7MU06A?view_as=subscriber"><b>channel</b></a> for some exciting videos! <br>
 Ask me anything <a href="https://github.com/AmjadKudsi/AmjadKudsi/issues/new"><b>here</b></a><br>
 or <a href="mailto:amjadkudsi7@gmail.com"><b>email</b></a> me
@@ -38,6 +38,3 @@ or <a href="mailto:amjadkudsi7@gmail.com"><b>email</b></a> me
 </div>
 
 ⭐ Thank you for visiting. Have a nice day! 😊
-
-
-// <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmjadKudsi&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Amjad(@AmjadKudsi)'s Github Stats">
