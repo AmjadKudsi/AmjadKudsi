@@ -26,8 +26,6 @@ or <a href="mailto:amjadkudsi7@gmail.com"><b>email</b></a> me
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmjadKudsi&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Amjad(@AmjadKudsi)'s Github Stats">
-
 
 ---
 [![HitCount](http://hits.dwyl.com/AmjadKudsi/AmjadKudsi.svg)](http://hits.dwyl.com/AmjadKudsi/AmjadKudsi)
@@ -40,3 +38,6 @@ or <a href="mailto:amjadkudsi7@gmail.com"><b>email</b></a> me
 </div>
 
 ⭐ Thank you for visiting. Have a nice day! 😊
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmjadKudsi&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Amjad(@AmjadKudsi)'s Github Stats">
