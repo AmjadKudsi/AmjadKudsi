@@ -30,10 +30,11 @@ or <a href="mailto:amjadkudsi7@gmail.com"><b>email</b></a> me
 ---
 [![HitCount](http://hits.dwyl.com/AmjadKudsi/AmjadKudsi.svg)](http://hits.dwyl.com/AmjadKudsi/AmjadKudsi)
 
+<br>
+<br>
 
-
-
+⭐ Thank you for visiting. Have a nice day! 😊
 
 </div>
 
-<h2> ⭐ Thank you for visiting. Have a nice day! 😊</h2>
+
