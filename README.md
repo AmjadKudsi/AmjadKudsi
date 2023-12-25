@@ -29,7 +29,6 @@ or <a href="mailto:amjadkudsi7@gmail.com"><b>email</b></a> me
 
 ---
 [![HitCount](http://hits.dwyl.com/AmjadKudsi/AmjadKudsi.svg)](http://hits.dwyl.com/AmjadKudsi/AmjadKudsi)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AmjadKudsi.AmjadKudsi)
 
 
 
@@ -37,4 +36,4 @@ or <a href="mailto:amjadkudsi7@gmail.com"><b>email</b></a> me
 
 </div>
 
-⭐ Thank you for visiting. Have a nice day! 😊
+<h2> ⭐ Thank you for visiting. Have a nice day! 😊</h2>
