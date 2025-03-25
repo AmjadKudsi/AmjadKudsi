@@ -47,6 +47,4 @@
 ⭐ Thank you for visiting. Have a nice day! 😊
 
 ---
-[![VisitCount](https://visitcount.itsvg.in/api?id=AmjadKudsi&icon=0&color=0)](https://visitcount.itsvg.in)
-[![HitCount](http://hits.dwyl.com/AmjadKudsi/AmjadKudsi.svg)](http://hits.dwyl.com/AmjadKudsi/AmjadKudsi)
 </div>
