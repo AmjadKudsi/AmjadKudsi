@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/LeetCode-5-22c55e" />
 </p>
 
-<div style="display:none">
-
 <details>
 <summary></summary>
 
@@ -25,7 +23,6 @@
 </details>
 
 
-</div>
 
 
 
