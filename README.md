@@ -15,9 +15,15 @@
 
 <div style="display:none">
 
+<details>
+<summary></summary>
+
 <!-- stats:start -->
 {"projects":25,"codesignal_practices":311,"leetcode":5}
 <!-- stats:end -->
+
+</details>
+
 
 </div>
 
