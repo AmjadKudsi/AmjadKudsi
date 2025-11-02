@@ -11,8 +11,7 @@
   <img src="https://img.shields.io/badge/Projects-25-1f6feb" />
   <img src="https://img.shields.io/badge/CodeSignal%20practices-311-0ea5e9" />
   <img src="https://img.shields.io/badge/LeetCode-5-22c55e" />
-</p>
-
+  
 <details>
 <summary></summary>
 
@@ -22,7 +21,7 @@
 
 </details>
 
-
+</p>
 
 
 
