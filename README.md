@@ -13,9 +13,14 @@
   <img src="https://img.shields.io/badge/LeetCode-5-22c55e" />
 </p>
 
+<div style="display:none">
+
 <!-- stats:start -->
 {"projects":25,"codesignal_practices":311,"leetcode":5}
 <!-- stats:end -->
+
+</div>
+
 
 
 ⭐ Thank you for visiting. Have a nice day! ⭐
