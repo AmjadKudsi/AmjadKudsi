@@ -9,9 +9,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://AmjadKudsi.github.io/YOUR_REPO/stats.json&query=$.projects&label=Projects&color=1f6feb&style=flat" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://AmjadKudsi.github.io/YOUR_REPO/stats.json&query=$.codesignal_practices&label=CodeSignal%20practices&color=0ea5e9&style=flat" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://AmjadKudsi.github.io/YOUR_REPO/stats.json&query=$.leetcode&label=LeetCode&color=22c55e&style=flat" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://amjadkudsi.github.io/AmjadKudsi/stats.json&query=$.projects&label=Projects&color=1f6feb&style=flat" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://amjadkudsi.github.io/AmjadKudsi/stats.json&query=$.codesignal_practices&label=CodeSignal%20practices&color=0ea5e9&style=flat" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://amjadkudsi.github.io/AmjadKudsi/stats.json&query=$.leetcode&label=LeetCode&color=22c55e&style=flat" />
 </p>
 
   
