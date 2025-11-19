@@ -14,15 +14,6 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https://amjadkudsi.github.io/AmjadKudsi/stats.json&query=$.leetcode&label=LeetCode&color=22c55e&style=flat" />
 </p>
 
-  
-<details>
-<summary></summary> 
-
-<!-- stats:start -->
-{"projects":25,"codesignal_practices":374,"leetcode":12}
-<!-- stats:end -->
-
-</details>
 
 
 ⭐ Thank you for visiting. Have a nice day! ⭐
