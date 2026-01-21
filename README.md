@@ -15,6 +15,7 @@
 </p>
 
 [![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/tools.png)](https://codesignal.com/learn/profile/cmahs9glz000kim04b674tjcu#:~:text=August%2021%2C%202025-,Tools,-Amazon%20Bedrock%20Models)
+[![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/kaggle_writeup.png)](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/statguard-agent)
 
 ⭐ Thank you for visiting. Have a nice day! ⭐
 
