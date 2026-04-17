@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https://amjadkudsi.github.io/StatSync-Controller/stats.json&query=$.leetcode&label=LeetCode&color=22c55e&style=flat" />
 </p>
 
-[![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/tools.png)](https://codesignal.com/learn/profile/cmahs9glz000kim04b674tjcu#:~:text=August%2021%2C%202025-,Tools,-Amazon%20Bedrock%20Models)
+[![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/skills.png)](https://codesignal.com/learn/profile/cmahs9glz000kim04b674tjcu#:~:text=August%2021%2C%202025-,Tools,-Amazon%20Bedrock%20Models)
 [![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/kaggle_writeup.png)](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/statguard-agent)
 
 ⭐ Thank you for visiting. Have a nice day! ⭐
