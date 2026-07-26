@@ -17,6 +17,29 @@
 [![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/Tools.png)](https://codesignal.com/learn/profile/cmahs9glz000kim04b674tjcu#:~:text=August%2021%2C%202025-,Tools,-Amazon%20Bedrock%20Models)
 [![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/kaggle_writeup.png)](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/statguard-agent)
 
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AmjadKudsi&show_icons=true&hide_border=true&theme=default"
+    alt="GitHub statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadKudsi&layout=compact&hide_border=true&theme=default"
+    alt="Most used languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AmjadKudsi&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+
 ⭐ Thank you for visiting. Have a nice day! ⭐
 
 ---
