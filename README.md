@@ -21,19 +21,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AmjadKudsi&show_icons=true&hide_border=true&theme=default"
-    alt="GitHub statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadKudsi&layout=compact&hide_border=true&theme=default"
-    alt="Most used languages"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=AmjadKudsi&hide_border=true"
     alt="GitHub contribution streak"
   />
