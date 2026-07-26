@@ -26,6 +26,20 @@
   />
 </p>
 
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmjadKudsi&theme=github_dark"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmjadKudsi&theme=github"
+      alt="GitHub profile summary"
+    />
+  </picture>
+</p>
 
 ⭐ Thank you for visiting. Have a nice day! ⭐
 
