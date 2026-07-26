@@ -17,29 +17,13 @@
 [![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/Tools.png)](https://codesignal.com/learn/profile/cmahs9glz000kim04b674tjcu#:~:text=August%2021%2C%202025-,Tools,-Amazon%20Bedrock%20Models)
 [![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/kaggle_writeup.png)](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/statguard-agent)
 
-## GitHub Statistics
-
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=AmjadKudsi&hide_border=true"
+    src="https://streak-stats.demolab.com?user=AmjadKudsi&hide_border=false"
     alt="GitHub contribution streak"
   />
 </p>
 
-## GitHub Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmjadKudsi&theme=github_dark"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmjadKudsi&theme=github"
-      alt="GitHub profile summary"
-    />
-  </picture>
-</p>
 
 ⭐ Thank you for visiting. Have a nice day! ⭐
 
