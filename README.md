@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=AmjadKudsi&hide_border=false"
+    src="https://streak-stats.demolab.com?user=AmjadKudsi"
     alt="GitHub contribution streak"
   />
 </p>
