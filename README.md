@@ -24,7 +24,7 @@
   <img
     src="./profile/streak.svg"
     alt="GitHub contribution streak"
-    width="700"
+    width="600"
   />
 </p>
 
