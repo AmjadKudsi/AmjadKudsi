@@ -17,10 +17,14 @@
 [![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/Tools.png)](https://codesignal.com/learn/profile/cmahs9glz000kim04b674tjcu#:~:text=August%2021%2C%202025-,Tools,-Amazon%20Bedrock%20Models)
 [![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/kaggle_writeup.png)](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/statguard-agent)
 
+<h2 align="center">GitHub Statistics</h2>
+<hr>
+<br>
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=AmjadKudsi"
+    src="./profile/streak.svg"
     alt="GitHub contribution streak"
+    width="790"
   />
 </p>
 
