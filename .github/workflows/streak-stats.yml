@@ -8,6 +8,10 @@ on:
     paths:
       - ".github/workflows/streak-stats.yml"
 
+concurrency:
+  group: streak-stats
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,7 +20,9 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
 
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
@@ -25,10 +31,22 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit streak stats
+      - name: Commit and push streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
-          git push
+
+          # Stop successfully if the generated SVG didn't change
+          if git diff --cached --quiet; then
+            echo "No streak stats changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update streak stats"
+
+          # Incorporate anything pushed to main since checkout
+          git pull --rebase origin main
+
+          git push origin main      
