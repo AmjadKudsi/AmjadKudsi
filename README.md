@@ -26,8 +26,6 @@
   />
 </p>
 
-
-⭐ Thank you for visiting. Have a nice day! ⭐
-
 ---
+⭐ Thank you for visiting. Have a nice day! ⭐
 </div>
