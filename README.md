@@ -19,7 +19,6 @@
 
 <h2 align="center">GitHub Statistics</h2>
 <hr>
-<br>
 <p align="center">
   <img
     src="./profile/streak.svg"
