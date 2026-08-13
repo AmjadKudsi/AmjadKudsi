@@ -18,7 +18,6 @@
 [![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/kaggle_writeup.png)](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/statguard-agent)
 
 <h2 align="center">GitHub Statistics</h2>
-<hr>
 <p align="center">
   <img
     src="./profile/streak.svg"
