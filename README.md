@@ -5,7 +5,11 @@
 ![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amjadkudsi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amjadkudsi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amjadkudsi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@thelumenodyssey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?logo=googlechrome&logoColor=white)](https://amjadkudsi.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/amjadkudsi)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amjadkudsi)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/amjadkudsi)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@thelumenodyssey)
 
 
 <p align="center">
