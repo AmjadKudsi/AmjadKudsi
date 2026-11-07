@@ -1,0 +1,28 @@
+# Rebuilds links/tools.svg and links/kaggle-writeup.svg whenever you replace
+# techstack.png or kaggle_writeup.png, so the README always shows the latest
+# screenshot and still opens the "Continue to ..." page in a new tab.
+name: Rebuild link images
+
+on:
+  push:
+    paths:
+      - techstack.png
+      - kaggle_writeup.png
+      - links/build_links.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - run: python3 links/build_links.py --images-only
+      - name: Commit the rebuilt images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add links
+          git diff --cached --quiet || { git commit -m "Rebuild link images"; git push; }
