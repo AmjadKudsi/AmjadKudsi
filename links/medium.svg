@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Amjad Kudsi on Medium</title>
+<style>
+.lp-page{display:none}
+@media (min-height:120px){.lp-badge{display:none}.lp-page{display:inline}}
+.lp-bg{fill:#f6f8fa}
+.lp-card{fill:#fff;stroke:#d1d9e0}
+.lp-title{fill:#1f2328;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;font-size:20px;font-weight:600}
+.lp-url{fill:#59636e;font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}
+.lp-icon{fill:none;stroke:#59636e;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+.lp-btn{fill:#1f2328;transition:fill .15s ease}
+.lp-btn-text{fill:#fff;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;font-size:14px;font-weight:600}
+.lp-note{fill:#59636e;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;font-size:12px}
+.lp-link{cursor:pointer;outline:none}
+.lp-link:hover .lp-btn{fill:#393f46}
+.lp-link:focus-visible .lp-card{stroke:#0969da;stroke-width:2}
+.lp-enter{animation:lp-in .32s cubic-bezier(.2,.7,.2,1) both}
+@keyframes lp-in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (max-width:460px){.lp-fit{transform:scale(.9)}}
+@media (max-width:400px){.lp-fit{transform:scale(.84)}}
+@media (max-width:360px){.lp-fit{transform:scale(.78)}}
+@media (max-width:330px),(max-height:300px){.lp-fit{transform:scale(.72)}}
+@media (max-device-width:500px) and (min-width:700px) and (orientation:portrait){.lp-fit{transform:scale(2.2)}}
+.lp-link{-webkit-tap-highlight-color:transparent}
+@media (prefers-color-scheme:dark){
+.lp-bg{fill:#010409}
+.lp-card{fill:#0d1117;stroke:#3d444d;filter:none}
+.lp-title{fill:#f0f6fc}
+.lp-url,.lp-note{fill:#9198a1}
+.lp-icon{stroke:#9198a1}
+.lp-btn{fill:#f0f6fc}
+.lp-btn-text{fill:#0d1117}
+.lp-link:hover .lp-btn{fill:#d1d9e0}
+.lp-link:focus-visible .lp-card{stroke:#4493f8}
+}
+@media (prefers-reduced-motion:reduce){.lp-enter{animation:none}}
+</style>
+<defs>
+<symbol id="lp-badge" viewBox="0 0 71 20"><filter id="b-blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="b-s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="b-r"><rect width="71" height="20" rx="3"/></clipPath><g clip-path="url(#b-r)"><rect width="0" height="20" fill="#555"/><rect x="0" width="71" height="20" fill="#12100e"/><rect width="71" height="20" fill="url(#b-s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><svg fill="white" viewBox="0 0 24 24" x="5" y="3" width="14" height="14"><path d="M4.21 0A4.201 4.201 0 0 0 0 4.21v15.58A4.201 4.201 0 0 0 4.21 24h15.58A4.201 4.201 0 0 0 24 19.79v-1.093c-.137.013-.278.02-.422.02-2.577 0-4.027-2.146-4.09-4.832a7.592 7.592 0 0 1 .022-.708c.093-1.186.475-2.241 1.105-3.022a3.885 3.885 0 0 1 1.395-1.1c.468-.237 1.127-.367 1.664-.367h.023c.101 0 .202.004.303.01V4.211A4.201 4.201 0 0 0 19.79 0Zm.198 5.583h4.165l3.588 8.435 3.59-8.435h3.864v.146l-.019.004c-.705.16-1.063.397-1.063 1.254h-.003l.003 10.274c.06.676.424.885 1.063 1.03l.02.004v.145h-4.923v-.145l.019-.005c.639-.144.994-.353 1.054-1.03V7.267l-4.745 11.15h-.261L6.15 7.569v9.445c0 .857.358 1.094 1.063 1.253l.02.004v.147H4.405v-.147l.019-.004c.705-.16 1.065-.397 1.065-1.253V6.987c0-.857-.358-1.094-1.064-1.254l-.018-.004zm19.25 3.668c-1.086.023-1.733 1.323-1.813 3.124H24V9.298a1.378 1.378 0 0 0-.342-.047Zm-1.862 3.632c-.1 1.756.86 3.239 2.204 3.634v-3.634z"/></svg><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="445" y="150" fill-opacity=".8" filter="url(#b-blur)" textLength="430">Medium</text><text x="445" y="150" fill-opacity=".3" textLength="430">Medium</text></g><text x="445" y="140" textLength="430">Medium</text></g></g></symbol>
+<filter id="lp-lift" x="-20%" y="-20%" width="140%" height="160%">
+<feGaussianBlur in="SourceAlpha" stdDeviation="12"/>
+<feOffset dy="8" result="blur"/>
+<feFlood flood-color="#1f2328" flood-opacity=".09"/>
+<feComposite in2="blur" operator="in"/>
+<feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<use class="lp-badge" href="#lp-badge" xlink:href="#lp-badge" width="100%" height="100%"/>
+<g class="lp-page">
+<rect class="lp-bg" width="100%" height="100%"/>
+<svg x="50%" y="50%" overflow="visible">
+<g class="lp-fit"><g class="lp-enter">
+<a class="lp-link" href="https://medium.com/@amjadkudsi" xlink:href="https://medium.com/@amjadkudsi" aria-label="Continue to Medium: medium.com/@amjadkudsi">
+<g transform="translate(-200 -111)">
+<rect class="lp-card" x=".5" y=".5" width="399" height="221" rx="12" filter="url(#lp-lift)"/>
+<use href="#lp-badge" xlink:href="#lp-badge" x="28" y="28" width="71" height="20"/>
+<text class="lp-title" x="28" y="86">Amjad Kudsi on Medium</text>
+<path class="lp-icon" transform="translate(28 99)" d="M5 1.5H2.5a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1V7M7.5 1.5h3v3M10.5 1.5 5.5 6.5"/>
+<text class="lp-url" x="47" y="110">medium.com/@amjadkudsi</text>
+<rect class="lp-btn" x="28" y="134" width="344" height="40" rx="6"/>
+<text class="lp-btn-text" x="200" y="159" text-anchor="middle">Continue to Medium</text>
+<text class="lp-note" x="200" y="200" text-anchor="middle">Your GitHub tab is still open.</text>
+</g>
+</a>
+</g></g>
+</svg>
+</g>
+</svg>
