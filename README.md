@@ -22,9 +22,6 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https://amjadkudsi.github.io/StatSync-Controller/stats.json&query=$.leetcode&label=LeetCode&color=22c55e&style=flat" />
 </p>
 
-[![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/techstack.png)](https://codesignal.com/learn/profile/cmahs9glz000kim04b674tjcu#:~:text=August%2021%2C%202025-,Tools,-Amazon%20Bedrock%20Models)
-[![My Image](https://github.com/AmjadKudsi/AmjadKudsi/blob/main/kaggle_writeup.png)](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/statguard-agent)
-
 <p align="center">
   <img alt="Tools I use, from my CodeSignal profile" src="https://raw.githubusercontent.com/AmjadKudsi/AmjadKudsi/main/links/tools.svg">
   <img alt="StatGuard Agent: hackathon writeup on Kaggle" src="https://raw.githubusercontent.com/AmjadKudsi/AmjadKudsi/main/links/kaggle-writeup.svg">
