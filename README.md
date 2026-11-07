@@ -14,7 +14,13 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@thelumenodyssey)
 
 
-<picture><source srcset="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"><img alt="Medium" src="https://raw.githubusercontent.com/amjadkudsi/amjadkudsi/main/links/medium.svg"></picture>
+<p align="center">
+  <img alt="Portfolio" src="https://raw.githubusercontent.com/AmjadKudsi/AmjadKudsi/main/links/portfolio.svg" width="73" height="20">
+  <img alt="LinkedIn" src="https://raw.githubusercontent.com/AmjadKudsi/AmjadKudsi/main/links/linkedin.svg" width="75" height="20">
+  <img alt="Medium" src="https://raw.githubusercontent.com/AmjadKudsi/AmjadKudsi/main/links/medium.svg" width="71" height="20">
+  <img alt="X" src="https://raw.githubusercontent.com/AmjadKudsi/AmjadKudsi/main/links/x.svg" width="35" height="20">
+  <img alt="YouTube" src="https://raw.githubusercontent.com/AmjadKudsi/AmjadKudsi/main/links/youtube.svg" width="75" height="20">
+</p>
 
 
 <p align="center">
