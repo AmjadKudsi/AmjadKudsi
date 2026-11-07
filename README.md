@@ -14,6 +14,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@thelumenodyssey)
 
 
+<picture><source srcset="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"><img alt="Medium" src="https://raw.githubusercontent.com/amjadkudsi/amjadkudsi/main/links/medium.svg"></picture>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://amjadkudsi.github.io/StatSync-Controller/stats.json&query=$.projects&label=DS%20Projects&color=1f6feb&style=flat" />
